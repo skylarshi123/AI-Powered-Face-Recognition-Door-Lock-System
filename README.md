@@ -1,7 +1,7 @@
 # 🔐 AI-Powered Face Recognition Door Lock System
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="AI Door Lock System in Action" />
+  <img src="https://roc.ai/wp-content/uploads/2018/11/howfrworks-980x491.png.webp" alt="AI Door Lock System in Action" />
   
   [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-Lite-orange?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
