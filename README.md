@@ -17,9 +17,6 @@
 
 Transform your traditional door lock into an intelligent security system! This project implements an advanced, AI-powered face recognition door lock system using a Raspberry Pi, servo motors, and a camera. The system employs deep learning techniques to accurately identify authorized individuals and control access, offering a high-tech, hands-free security solution for homes or offices.
 
-<div align="center">
-  <img src="/api/placeholder/800/300" alt="System Architecture Diagram" />
-</div>
 
 ## ⭐ Key Features
 
